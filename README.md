@@ -29,6 +29,7 @@ Estou buscando aprendizado, estou sempre me inovando. Gosto muito de programar a
 ### Projetos recentes:
 
 - [Tela de login em Java](https://github.com/VitorAugustoCunha/JavaLoginFrame)
+- [Exercícios Python](https://github.com/VitorAugustoCunha/PythonExerc)
 
 
 </div>
