@@ -19,7 +19,6 @@
 ## Meus status ✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAugustoCunha&show_icons=true&theme=synthwave)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAugustoCunha&theme=tokyonight)
 
 ### Um pouco de mim ⭐
