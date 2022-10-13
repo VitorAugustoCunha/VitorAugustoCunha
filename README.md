@@ -30,6 +30,7 @@ Estou buscando aprendizado, estou sempre me inovando. Gosto muito de programar a
 
 - [Tela de login em Java](https://github.com/VitorAugustoCunha/JavaLoginFrame)
 - [Exercícios Python](https://github.com/VitorAugustoCunha/PythonExerc)
+- [Exercícios Java](https://github.com/VitorAugustoCunha/JavaExer)
 
 
 </div>
