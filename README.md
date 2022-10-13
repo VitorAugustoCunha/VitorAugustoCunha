@@ -1,7 +1,6 @@
 # Olá eu sou Vitor Augusto 😊
 
 ## Redes sociais 🎉
-<br>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-augusto-b617b6233/)
 [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorAugustoCunha)
@@ -10,7 +9,6 @@
 
 ## Tecnologias do meu dia a dia 🚀
 
-<br>
 
 ![Skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
