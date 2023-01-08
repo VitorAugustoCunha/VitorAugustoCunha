@@ -32,9 +32,3 @@ I am looking for learning, I am always innovating. I really enjoy programming ev
 - [Python exercises](https://github.com/VitorAugustoCunha/PythonExerc)
 - [Java exercises](https://github.com/VitorAugustoCunha/JavaExer)
 
-
-</div>
-
-  ![Snake animation](https://github.com/VitorAugustoCunha/VitorAugustoCunha/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
