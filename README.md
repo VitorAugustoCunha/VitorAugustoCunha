@@ -26,9 +26,4 @@ I am looking for learning, I am always innovating. I really enjoy programming ev
 </br>
 <br>
 
-### Projects:
-
-- [Login Frame](https://github.com/VitorAugustoCunha/JavaLoginFrame)
-- [Python exercises](https://github.com/VitorAugustoCunha/PythonExerc)
-- [Java exercises](https://github.com/VitorAugustoCunha/JavaExer)
 
