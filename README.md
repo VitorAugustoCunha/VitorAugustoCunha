@@ -25,7 +25,7 @@
 ### Who am i? ⭐
 
 <br>
-I am looking for learning, I am always innovating. I really enjoy programming even though I don't think I have the gift. I believe that I am very hard working. I always go after it even if I don't know how to do it or don't know the subject. I believe I am an adaptable and proactive person. Pleasure Vitor Augusto.
+I am looking for learning.
 </br>
 <br>
 
