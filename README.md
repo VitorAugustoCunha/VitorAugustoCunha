@@ -26,7 +26,7 @@
 ### Who am i? ⭐
 
 <br>
-I am looking for learning.
+Software developer, Java full-stack and technology enthusiast
 </br>
 <br>
 
