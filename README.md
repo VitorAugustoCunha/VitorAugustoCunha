@@ -29,7 +29,7 @@
 ### Who am i? ⭐
 
 <br>
-Software developer, Java full-stack and technology enthusiast
+Software developer, Java full-stack and technology enthusiast. I am working at the company Consenso there my position is Full Stack Developer.
 </br>
 <br>
 
