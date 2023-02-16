@@ -21,7 +21,7 @@
 ![Skills](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## my status ✨
+## My status ✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAugustoCunha&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAugustoCunha&layout=compact&langs_count=7&theme=synthwave)
@@ -31,6 +31,11 @@
 <br>
 Software developer, Java full-stack and technology enthusiast. I am working at the company Consenso there my position is Full Stack Developer.
 </br>
-<br>
+
+## My Projects 👨🏼‍💻
+
+<ul>
+<li><a href="https://organodevemt.vercel.app/">Organo<a/><li/>
+<ul/>
 
 
