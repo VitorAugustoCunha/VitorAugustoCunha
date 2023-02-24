@@ -35,7 +35,7 @@ Software developer, Java full-stack and technology enthusiast. I am working at t
 ## My Projects 👨🏼‍💻
 
 <ul>
-  <li><a href="aluronidevemt.vercel.app">Aluroni</a></li>
+  <li><a href="[aluronidevemt.vercel.app](https://aluronidevemt.vercel.app/)">Aluroni</a></li>
   <li><a href="https://organodevemt.vercel.app/">Organo</a></li>
   <li><a href="https://github.com/JoaoBrandaoS/Projeto_Consenso_APP">Agenda App</a></li>
 </ul>
