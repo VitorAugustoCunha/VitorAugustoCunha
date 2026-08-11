@@ -33,6 +33,7 @@ Currently focused on strengthening my expertise in full-stack development with *
 * HTML
 * CSS
 * RxJS
+* React
 
 **Database & Infrastructure**
 
