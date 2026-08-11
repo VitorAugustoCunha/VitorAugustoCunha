@@ -1,33 +1,93 @@
-# Hi i'm Vitor Augusto 😊
+# Vitor Augusto da Cunha
 
-## social media 🎉
+### Full Stack Developer — Java, Spring Boot & Angular
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-augusto-b617b6233/)
-[![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorAugustoCunha)
-[![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VitorAugustoGIT)
+Software Developer focused on building maintainable and scalable web applications using **Java, Spring Boot, Angular and TypeScript**.
 
+I have professional experience working across back-end and front-end development, contributing to the development and evolution of real-world software solutions.
 
-## Skills 🚀
+My main focus is the **Java ecosystem**, designing REST APIs, implementing business rules, working with relational databases, authentication and authorization, automated testing, and application architecture.
 
+Currently focused on strengthening my expertise in full-stack development with **Java/Spring Boot and Angular**, applying software engineering practices that make applications easier to test, maintain and evolve.
 
-![Skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Skills](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Skills](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Skills](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Skills](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Skills](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Skills](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Skills](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-## My status ✨
+## Core Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAugustoCunha&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAugustoCunha&layout=compact&langs_count=7&theme=synthwave)
+**Back-end**
 
-### Who am i? ⭐
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Spring Security
+* Hibernate
+* REST APIs
+* JWT Authentication
+* Maven
 
-<br>
-Software developer, Java full-stack and technology enthusiast. I am working at the company Consenso there my position is Full Stack Developer.
-</br>
+**Front-end**
+
+* Angular
+* TypeScript
+* HTML
+* CSS
+* RxJS
+
+**Database & Infrastructure**
+
+* PostgreSQL
+* SQL
+* Docker
+* Flyway
+* Git
+* GitHub Actions
+
+**Testing & Engineering**
+
+* JUnit
+* Mockito
+* Testcontainers
+* OpenAPI / Swagger
+* Clean Code
+* SOLID
+* Object-Oriented Programming
+
+---
+
+## Featured Project
+
+### Service Scheduling & Management Platform
+
+Full-featured scheduling platform built around real business rules such as provider availability, appointment conflicts, authentication, authorization and service management.
+
+**Technologies**
+
+`Java` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `PostgreSQL` · `JWT` · `Flyway` · `Docker` · `JUnit` · `Mockito` · `Testcontainers` · `OpenAPI`
+
+The project is being evolved into a complete **Java + Angular full-stack application**, including an Angular client consuming the Spring Boot REST API.
+
+[View the project](https://github.com/VitorAugustoCunha/Plataforma-de-Agendamento-e-Gest-o-de-Servi-os)
+
+---
+
+## What I'm currently focused on
+
+* Building production-oriented applications with Java and Spring Boot
+* Designing RESTful APIs and application architecture
+* Spring Security and authentication/authorization
+* Automated unit and integration testing
+* SQL and relational database modeling
+* Angular and reactive applications with RxJS
+* Docker and CI/CD workflows
+* Clean Code, SOLID and design patterns
+
+---
+
+## Contact
+
+**LinkedIn:**
+https://www.linkedin.com/in/vitor-augusto-b617b6233/
+
+**GitHub:**
+https://github.com/VitorAugustoCunha
